@@ -3,3 +3,4 @@ Remove : Видалити
 Cancel : Скасувати
 Create : Створити
 Okay : Добре
+Files : Файл
